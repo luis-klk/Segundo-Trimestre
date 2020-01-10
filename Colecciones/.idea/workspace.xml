@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="769ec694-8ab6-48b0-91b2-ccbaf23f1595" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/inicio/HastableEntrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inicio/arraylistCoche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inicio/hastableCoche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Colecciones/inicio/ArraylistEntrada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inicio/src/entrada/cochesArraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inicio/src/entrada/cochesArraylist.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1W9MSnaUULx5M40MBfKunC1oLtZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../inicio/src/entrada/cochesArraylist.java" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario DAM 1\Documents\GitHub\ssclonado\ss\Colecciones\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HastableEntrada">
+    <configuration name="ArraylistEntrada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inicio.ArraylistEntrada" />
+      <module name="Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HastableEntrada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inicio.HastableEntrada" />
+      <module name="Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arraylistCoche" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inicio.arraylistCoche" />
+      <module name="Colecciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inicio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cochesArraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="entrada.cochesArraylist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entrada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HastableEntrada" />
+        <item itemvalue="Application.arraylistCoche" />
+        <item itemvalue="Application.ArraylistEntrada" />
+        <item itemvalue="Application.cochesArraylist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="769ec694-8ab6-48b0-91b2-ccbaf23f1595" name="Default Changelist" comment="" />
+      <created>1578557360008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578557360008</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="97" key="#cochesArraylist" timestamp="1578653389804">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="320" y="97" key="#cochesArraylist/0.0.1600.860@0.0.1600.860" timestamp="1578653389804" />
+    <state x="603" y="277" key="FileChooserDialogImpl" timestamp="1578656030274">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="603" y="277" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1578656030274" />
+    <state width="1340" height="206" key="GridCell.Tab.0.bottom" timestamp="1578656560762">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578656560762" />
+    <state width="1340" height="206" key="GridCell.Tab.0.center" timestamp="1578656560762">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578656560762" />
+    <state width="1340" height="206" key="GridCell.Tab.0.left" timestamp="1578656560761">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578656560761" />
+    <state width="1340" height="206" key="GridCell.Tab.0.right" timestamp="1578656560762">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578656560762" />
+    <state x="301" y="73" key="SettingsEditor" timestamp="1578557707229">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="73" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1578557707229" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1578652466918">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1578652466918" />
+    <state x="182" y="51" key="new project wizard" timestamp="1578567166904">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="51" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1578567166904" />
+  </component>
+</project>
